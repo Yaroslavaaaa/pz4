@@ -124,7 +124,7 @@ Middleware logger
 
 
 Метод обрабатывающий PATCH запросы для изменения задачи. Здесь так же происходит валидация поля title при создании.
-![Uploading image.png…]()
+<img width="1058" height="574" alt="image" src="https://github.com/user-attachments/assets/fc09556c-d71c-415e-aee4-08518523f236" />
 
 
 ## Обработка ошибок и коды ответа
